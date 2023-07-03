@@ -1,1 +1,0 @@
-# wn_site_mini
